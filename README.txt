@@ -1,4 +1,4 @@
-Shenjie Wang-Closer to 21
+Shenjie Wang-BlackJack
 
 List of Program Files:
 1. Interview: A meeting with one of my teacher who help me plan out the requirement of final project a lot.
