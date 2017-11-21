@@ -2,7 +2,7 @@
 
  *ICS 3U
  
- *The program is a game which called Closer to 21. This is the final project.
+ *This is the final project.
 
  *Copyright: Shenjie Wang
 
